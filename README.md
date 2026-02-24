@@ -4,3 +4,4 @@ full
 hello
 fine
 yes
+yes
